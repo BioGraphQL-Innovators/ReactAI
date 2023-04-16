@@ -1,4 +1,4 @@
-//import * as tf from "@tensorflow/tfjs";
+import * as tf from "@tensorflow/tfjs";
 import * as qna from "@tensorflow-models/qna";
 import logo from './logo.svg';
 import './App.css';
